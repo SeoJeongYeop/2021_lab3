@@ -1,1 +1,1 @@
-return anything
+return sum
